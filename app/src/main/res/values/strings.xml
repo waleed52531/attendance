@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">attendance</string>
+    <string name="movex">movex</string>
+    <string name="time">TIME</string>
+    <string name="leave">leave</string>
+    <string name="attendance">Attendance</string>
+    <string name="salary">Salary</string>
+    <string name="loan">Loan</string>
+    <string name="news">News</string>
+    <string name="tracking">Tracking</string>
+    <string name="follow_us">FOLLOW US!</string>
+    <string name="login">Login</string>
+    <string name="https">HTTPS</string>
+    <string name="stay_logged_in">Stay logged in</string>
+    <string name="remember_me">Remember me</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="password">Password</string>
+    <string name="account_no">User Name</string>
+    <string name="home">Home</string>
+    <string name="location">location</string>
+    <string name="about">About</string>
+    <string name="logout">Logout</string>
+    <string name="navigation_drawer_open" />
+    <string name="navigation_drawer_close" />
+
+</resources>
